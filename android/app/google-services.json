@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223831559291",
+    "project_id": "smile-a55e7",
+    "storage_bucket": "smile-a55e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223831559291:android:8f05070cf7cd9b424c66de",
+        "android_client_info": {
+          "package_name": "com.example.smile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBqrsJnbIrgJM-W4aqN81GSyxceq5lisA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
